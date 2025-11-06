@@ -14,7 +14,7 @@ External mixing amp for Teenage Engineering PO series
 - 2 sync out
 - 1 stereo headphone out
 - power button
-
+[comment]: ![](PO_AMP_1.jpg)
 
 
 
