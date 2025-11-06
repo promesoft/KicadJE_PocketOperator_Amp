@@ -18,6 +18,4 @@ External mixing amp for Teenage Engineering PO series
 
 # Pictures
 ![](KicadJE_PocketOperator_Amp/PO_AMP_1.jpg)
-
-
-
+![](KicadJE_PocketOperator_Amp/TE-PO-pict.jpg)
