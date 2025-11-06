@@ -16,8 +16,7 @@ External mixing amp for Teenage Engineering PO series
 - power button
 
 # Pictures
-
-[comment]: ![](KicadJE_PocketOperator_Amp/PO_AMP_1.jpg)
+![](KicadJE_PocketOperator_Amp/PO_AMP_1.jpg)
 
 
 
