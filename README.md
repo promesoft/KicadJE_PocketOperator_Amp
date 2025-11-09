@@ -8,6 +8,7 @@ External mixing amp for Teenage Engineering PO series
 # Purpose AMP
 - Amp and sync dist for PO TE boards
 - Overcome the drop in audio level that happens when daisychaining the devices
+- 
 # Operation
 ## Amp 1
 - 2 stereo in
